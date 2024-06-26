@@ -1,10 +1,9 @@
-import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Stopwatch Counter</h1>
+        <h1>Stopwatch Counter App</h1>
       </header>
     </div>
   );
