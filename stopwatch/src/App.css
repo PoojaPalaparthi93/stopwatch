@@ -1,0 +1,17 @@
+.App-header {
+    color: red;
+    text-align: center;
+}
+
+.btnContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 100vw;
+}
+
+.counterText {
+    text-align: center;
+    padding-top: 3rem;
+}
